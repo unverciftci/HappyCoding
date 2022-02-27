@@ -87,7 +87,7 @@ This sketch creates a canvas that's `300x300` pixels, and then draws a green bac
 
 The result is a program that draws five circles that look like a flower:
 
-![flower](/tutorials/processing/images/using-variables-2.png)
+![flower](/tutorials/p5js/processing/images/using-variables-2.png)
 
 This program works because the size of the canvas is `300x300`, which you can use to figure out where to draw the circles. You can do some math in your head (or on a piece of paper) to calculate the values to pass in as parameters to the `circle` function so the circles show up where you want them.
 
@@ -118,7 +118,7 @@ function draw() {
 
 But if you do that without changing anything else, you end up with the flower in the upper-left corner:
 
-![flower in upper-left corner](/tutorials/processing/images/using-variables-3.png)
+![flower in upper-left corner](/tutorials/p5js/processing/images/using-variables-3.png)
 
 This happens because you changed the size of the canvas, but you didn't change the position or size of the circles.
 
@@ -145,7 +145,7 @@ function draw() {
 
 The positions and sizes of the circles now cause the flower to fill up the canvas again.
 
-![flower filling the window](/tutorials/processing/images/using-variables-4.png)
+![flower filling the window](/tutorials/p5js/processing/images/using-variables-4.png)
 
 But now what if you want to change the size of the canvas yet again? Ugh, you'd have to go through and do all that math, which is going to get pretty annoying. That might not seem like a big deal, but it becomes more and more annoying as your programs get bigger.
 
@@ -195,7 +195,7 @@ function draw() {
 }
 </script>
 
-![150x150 flower](/tutorials/processing/images/using-variables-5.png)
+![150x150 flower](/tutorials/p5js/processing/images/using-variables-5.png)
 
 This is **better** because you don't have to do any math yourself, other than figuring out the operators in the first place. But you still have to change your code in a bunch of different places. You might be able to use the find/replace feature in the editor to make it a little easier. But wouldn't it be nice if p5.js could keep track of the width and height of the window for you?
 
@@ -226,7 +226,7 @@ function draw() {
 
 The big change here from the other examples is that this code uses the `width` and `height` variables to calculate the position and size of the ellipse. `width/2` gives you the horizontal center of the canvas, and `height/2` gives you its vertical center. Similarly, `width` gives you the full width of the canvas, and `height` gives you its height.
 
-![circle using variables](/tutorials/processing/images/using-variables-6.png)
+![circle using variables](/tutorials/p5js/processing/images/using-variables-6.png)
 
 Now if you want to change the size of the canvas, you only have to change the parameters you pass into the `createCanvas()` function. You don't have to change anything else, because the `width` and `height` variables will change automatically.
 
