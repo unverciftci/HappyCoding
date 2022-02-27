@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /404
-Disallow: /tutorials/javascript/example-ajax-files/html-welcome.html
-Sitemap: https://happycoding.io/sitemap.xml
