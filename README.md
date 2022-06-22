@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 # P5JS ile Programlamaya Giriş
 
 
