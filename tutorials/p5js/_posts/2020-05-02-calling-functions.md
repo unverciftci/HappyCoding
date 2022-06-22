@@ -19,7 +19,7 @@ By now you've used the [p5.js editor](https://editor.p5js.org/) to write your fi
 
 In p5.js (and most other languages), one of the tools you'll use most often is the ability to **call a function**.
 
-# What's a function?
+# Fonksiyon Nedir?
 
 Writing a program is a little bit like writing a recipe. Similar to how a recipe is a set of steps that another person follows, a program is a set of steps that the computer follows.
 
