@@ -1,19 +1,3 @@
----
-layout: tutorial
-title: Calling Functions
-thumbnail: /tutorials/p5js/images/calling-functions-4.png
-tagline: Tell the computer what to do.
-sort-key: 200
-meta-title: Calling Functions in p5.js
-meta-description: "Learn the first step to coding: calling functions!"
-meta-image: /tutorials/p5js/images/calling-functions-4.png
-tags: [tutorial, p5.js, javascript]
-includeP5jsWidget: true
-previousPost: /tutorials/p5js/welcome-to-coding
-nextPost: /tutorials/p5js/using-variables
----
-
-{% include toc.md %}
 
 By now you've used the [p5.js editor](https://editor.p5js.org/) to write your first few lines of code. Congratulations! Now let's take a closer look at exactly what's happening.
 
