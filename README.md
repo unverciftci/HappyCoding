@@ -2,7 +2,7 @@
 
 
 
-<h3 href="#https://github.com/unverciftci/P5Programlama/blob/gh-pages/tutorials/p5js/_posts/2020-04-26-welcome-to-coding.md"> Programlamaya Giriş </h3>
+<h3 href="https://github.com/unverciftci/P5Programlama/blob/gh-pages/tutorials/p5js/_posts/2020-04-26-welcome-to-coding.md"> Programlamaya Giriş </h3>
 
 [Kod Editörünü Tanıyalım](https://github.com/unverciftci/P5_Programlama/tree/gh-pages/tutorials/p5js/_posts/editors) 
 
