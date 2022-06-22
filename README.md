@@ -8,7 +8,7 @@
 2. [Kod Editörünü Tanıyalım](https://github.com/unverciftci/P5_Programlama/tree/gh-pages/tutorials/p5js/_posts/editor.md) 
 3. [Hazır Fonksiyonların Kullanımı](https://github.com/unverciftci/HappyCoding/blob/gh-pages/tutorials/p5js/_posts/2020-05-02-calling-functions.md)
 
-Kaynaklar 
+<h3> Kaynaklar </h3> 
 
 [HappyCoding.io](http://HappyCoding.io) <br/>
 [p5js](https://p5js.org) <br/>
