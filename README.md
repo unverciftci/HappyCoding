@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/unverciftci/P5_Programlama/blob/97d637a973f7e37178baf211ed785299b1fe6255/p5.gif))
 
 # P5JS ile Programlamaya Giriş
 
