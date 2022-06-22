@@ -12,7 +12,8 @@
 
 [HappyCoding.io](http://HappyCoding.io) <br/>
 [p5js](https://p5js.org) <br/>
-https://p5-demos.glitch.me/ <br/>
+[Intro to Creative Coding](https://p5-demos.glitch.me/) <br/>
+[Creative Coding](https://www.classes.cs.uchicago.edu/archive/2021/summer/creative-coding/csp/info.html)
 
 
 ![Alt Text](https://github.com/unverciftci/P5_Programlama/blob/gh-pages/p5.gif)
