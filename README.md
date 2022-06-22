@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/unverciftci/P5_Programlama/blob/gh-pages/p5.gif)
+![Alt Text](https://github.com/unverciftci/P5_Programlama/blob/gh-pages/giphy-13-1.gif)
 
 # P5JS ile Programlamaya Giriş
 
@@ -10,3 +10,5 @@
 
 Not: [HappyCoding.io](http://HappyCoding.io) sayfasından derlenmiştir.
 Ayrıca bakınız: [p5js](https://p5js.org) 
+
+![Alt Text](https://github.com/unverciftci/P5_Programlama/blob/gh-pages/p5.gif)
