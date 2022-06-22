@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/unverciftci/P5_Programlama/blob/gh-pages/giphy-13-1.gif)
 
-# P5JS ile Programlamaya Giriş
+# P5js ile Programlamaya Giriş
 
 
 
