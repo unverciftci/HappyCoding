@@ -18,5 +18,10 @@ https://github.com/yining1023/machine-learning-for-the-web
 https://github.com/mattdesl/workshop-p5-intro
 https://github.com/theBlackBoxSociety/p5js
 https://github.com/generative-design/Code-Package-p5.js
+https://awarua.github.io/creative-coding/tutorials/tut01/
+http://hello.p5js.org/
+https://nycdoe-cs4all.github.io/
+https://www.crcv.ucf.edu/courses/cap6412-spring-2022/schedule/
+
 
 ![Alt Text](https://github.com/unverciftci/P5_Programlama/blob/gh-pages/p5.gif)
